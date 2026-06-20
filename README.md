@@ -6,6 +6,10 @@
 
 ## Tools Used
 - Microsoft Excel
+- Power Quary
+- Pivot Tables
+- Charts
+  
 
 ## Features
 - Sales Analysis
