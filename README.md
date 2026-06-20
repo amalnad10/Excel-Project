@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png.png)
+![Dashboard](Dashboard.png.png)
 
 ## Tools Used
 - Microsoft Excel
